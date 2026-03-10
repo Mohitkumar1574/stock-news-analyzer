@@ -7,3 +7,4 @@ requests==2.31.0
 python-dotenv==1.0.1
 setuptools==69.2.0
 wheel==0.43.0
+pillow==10.3.0
