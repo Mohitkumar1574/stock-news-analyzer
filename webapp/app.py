@@ -564,11 +564,3 @@ elif page == "🏠 Home":
     # Import and show home page
     from pages.home import show_home
     show_home()
-
-# ========== FOOTER ==========
-st.markdown("""
-<div class="footer">
-    Built with ❤️ using Streamlit | Data from NewsAPI and Yahoo Finance
-</div>
-""", unsafe_allow_html=True)
-
